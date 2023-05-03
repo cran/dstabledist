@@ -1,0 +1,12 @@
+b7d7595f6c95d9a7422729505d63cdc1 *DESCRIPTION
+13aba4340a5bc26cbe6c7f0792f56611 *NAMESPACE
+5801d1c6ea61c7d85435f1fc90ce10a6 *R/ddstable1.R
+df6cc46bc7fae1a55b713f3d5065b35a *R/dstabledist-package.R
+7ff5b82d4175c9eb63d616a35c25d0c7 *R/pgdstable1.R
+7b33497a8e6111e78ce58e82c43fc151 *R/rdstable1.R
+77a6ed814d8764be4fdaaf27d11114c7 *build/partial.rdb
+18e1c1ac58237c848c54fab84bda37f5 *inst/REFERENCES.bib
+e4d5d2030b3f48522a9f2da62293daec *man/ddstable.Rd
+097f7c04b32c66f9f0b2caba21e8099c *man/dstabledist-package.Rd
+0be4e6c5b29068d4a6ed5dd75828a521 *man/pgdstable.Rd
+42135eabbcee3bd4bf80ae3258eae42b *man/rdstable.Rd
